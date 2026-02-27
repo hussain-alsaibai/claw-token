@@ -1,0 +1,13 @@
+{
+  "contractName": "CLAWToken",
+  "contractAddress": "0x3274d732b91edb3bda886183403a2a44d21553f8",
+  "network": "Tenderly Virtual TestNet",
+  "chainId": 84532,
+  "deployer": "0x7667bc71256a71a548e8889adb4ab61a93d1e179",
+  "transactionHash": "0xc6fff9f399066bb7fbfa5c509ff0e3160dc1e4856bd6249db68d1ba491b7a6cd",
+  "timestamp": "2026-02-27T03:24:50.209Z",
+  "blockNumber": "latest",
+  "gasUsed": "0x217980",
+  "explorer": "https://dashboard.tenderly.co/Alsaibai/project/project/vnet/claw-token-vnet/contracts/0x3274d732b91edb3bda886183403a2a44d21553f8",
+  "verified": true
+}
