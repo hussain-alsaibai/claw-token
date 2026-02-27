@@ -2,9 +2,37 @@
 
 **The AI-Powered Lobster Revolution**
 
-![Status](https://img.shields.io/badge/Status-Building-green)
+![Status](https://img.shields.io/badge/Status-Ready_for_Launch-brightgreen)
 ![Network](https://img.shields.io/badge/Network-Base-blue)
 ![Type](https://img.shields.io/badge/Type-Meme_Token-orange)
+![Website](https://img.shields.io/badge/Website-LIVE-success)
+
+**🌐 LIVE:** https://hussain-alsaibai.github.io/claw-token/
+
+---
+
+## 🚀 Current Status (Feb 26, 2026)
+
+| Component | Status |
+|-----------|--------|
+| Smart Contract | ✅ Complete |
+| Website | ✅ LIVE |
+| GitHub Repo | ✅ Public |
+| Tenderly VNet | ✅ Running (1.0 ETH) |
+| Deployment | ⏳ Awaiting GitHub Secret |
+| Social Media | ✅ Content Ready |
+
+**🎯 Ready to deploy - just add GitHub Secret!**
+
+See [LAUNCH_CHECKLIST.md](LAUNCH_CHECKLIST.md) for details.
+
+---
+
+## 📋 Project Overview
+
+$CLAW is a community-driven meme token combining artificial intelligence, crustacean resilience, and decentralized finance. Built on Base Network (Ethereum L2) for low fees and fast transactions.
+
+**Tagline:** *Claw Your Way to the Moon*
 
 ---
 
