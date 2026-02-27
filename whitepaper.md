@@ -4,7 +4,7 @@
 **Version:** 1.0  
 **Date:** February 2026  
 **Network:** Base (Ethereum L2)  
-**Contract:** TBD
+**Contract:** `0x3274d732b91edb3bda886183403a2a44d21553f8` (Base Sepolia Testnet)
 
 ---
 
@@ -80,8 +80,8 @@ Distribution:
 
 ### Phase 1: Launch (Month 1)
 - [x] Smart contract development
-- [ ] Testnet deployment
-- [ ] Website launch
+- [x] Testnet deployment (Base Sepolia — Feb 27, 2026)
+- [x] Website launch (GitHub Pages)
 - [ ] Social media setup
 - [ ] Community building
 
