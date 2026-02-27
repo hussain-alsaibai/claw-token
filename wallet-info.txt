@@ -1,0 +1,16 @@
+CLAW TOKEN - BASE TESTNET WALLET
+================================
+Generated: 2026-02-23
+Network: Base Goerli (Testnet)
+
+Wallet Address: 0xCLAW...PLACEHOLDER
+Status: Pending Faucet ETH
+
+Next Steps:
+1. Get Goerli ETH from faucet
+2. Deploy testnet contract
+3. Verify on BaseScan
+
+Faucet URLs:
+- https://www.alchemy.com/faucets/base-sepolia
+- https://faucet.quicknode.com/base/goerli

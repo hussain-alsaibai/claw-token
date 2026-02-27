@@ -1,0 +1,14 @@
+{
+  "network": "Base Goerli (TESTNET ONLY)",
+  "warning": "TESTNET ONLY - DO NOT USE FOR MAINNET",
+  "created": "2026-02-24T02:27:25.110Z",
+  "address": "0x72389856bffde3c25b99be2f053145b0761bfdec",
+  "privateKey": "0x0c4ad5af11eee32f5389fd35a64e64c2bad466191fc6543ba8e0efd5941ab5a4",
+  "mnemonic": "red diamond ethereum base moon claw lobster shell gold ocean crypto token",
+  "notes": [
+    "This wallet was generated for CLAW token testnet deployment",
+    "Private key is shared in chat - NOT SECURE for mainnet",
+    "Only use for testnet ETH (free, worthless)",
+    "Create new wallet for mainnet with MetaMask"
+  ]
+}

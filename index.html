@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>$CLAW Token | Claw Your Way to the Moon</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+            color: #fff;
+            line-height: 1.6;
+        }
+        
+        .hero {
+            text-align: center;
+            padding: 100px 20px;
+            background: linear-gradient(135deg, #ff4136 0%, #ffd700 100%);
+        }
+        
+        .hero h1 {
+            font-size: 4em;
+            margin-bottom: 20px;
+            text-shadow: 3px 3px 6px rgba(0,0,0,0.3);
+        }
+        
+        .hero p {
+            font-size: 1.5em;
+            margin-bottom: 40px;
+        }
+        
+        .cta-button {
+            display: inline-block;
+            background: #000;
+            color: #ffd700;
+            padding: 15px 40px;
+            text-decoration: none;
+            border-radius: 50px;
+            font-weight: bold;
+            font-size: 1.2em;
+            transition: transform 0.3s;
+        }
+        
+        .cta-button:hover {
+            transform: scale(1.1);
+        }
+        
+        .features {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 30px;
+            padding: 80px 20px;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        
+        .feature-card {
+            background: rgba(255,255,255,0.05);
+            padding: 40px;
+            border-radius: 20px;
+            text-align: center;
+            border: 1px solid rgba(255,65,54,0.3);
+        }
+        
+        .feature-card h3 {
+            color: #ffd700;
+            margin-bottom: 15px;
+            font-size: 1.5em;
+        }
+        
+        .tokenomics {
+            background: #0f0f23;
+            padding: 80px 20px;
+            text-align: center;
+        }
+        
+        .tokenomics h2 {
+            font-size: 3em;
+            margin-bottom: 40px;
+            color: #ff4136;
+        }
+        
+        .supply-chart {
+            max-width: 800px;
+            margin: 0 auto;
+            background: rgba(255,255,255,0.05);
+            padding: 40px;
+            border-radius: 20px;
+        }
+        
+        .supply-item {
+            display: flex;
+            justify-content: space-between;
+            padding: 15px 0;
+            border-bottom: 1px solid rgba(255,255,255,0.1);
+        }
+        
+        .supply-item:last-child {
+            border-bottom: none;
+        }
+        
+        .roadmap {
+            padding: 80px 20px;
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+        
+        .roadmap h2 {
+            text-align: center;
+            font-size: 3em;
+            margin-bottom: 60px;
+            color: #ffd700;
+        }
+        
+        .phase {
+            background: rgba(255,65,54,0.1);
+            padding: 30px;
+            margin-bottom: 30px;
+            border-radius: 15px;
+            border-left: 4px solid #ff4136;
+        }
+        
+        .phase h3 {
+            color: #ff4136;
+            margin-bottom: 15px;
+        }
+        
+        .community {
+            background: linear-gradient(135deg, #16213e 0%, #1a1a2e 100%);
+            padding: 80px 20px;
+            text-align: center;
+        }
+        
+        .social-links {
+            display: flex;
+            justify-content: center;
+            gap: 30px;
+            margin-top: 40px;
+        }
+        
+        .social-links a {
+            background: #ff4136;
+            color: #fff;
+            padding: 15px 30px;
+            text-decoration: none;
+            border-radius: 10px;
+            font-weight: bold;
+            transition: background 0.3s;
+        }
+        
+        .social-links a:hover {
+            background: #ffd700;
+            color: #000;
+        }
+        
+        footer {
+            text-align: center;
+            padding: 40px 20px;
+            background: #0f0f23;
+            color: #666;
+        }
+        
+        .lobster-ascii {
+            font-family: monospace;
+            font-size: 12px;
+            line-height: 1.2;
+            color: #ff4136;
+            margin: 20px 0;
+        }
+    </style>
+</head>
+<body>
+    <section class="hero">
+        <pre class="lobster-ascii">
+        🦞
+        / \
+       /   \
+      |  o  |
+      |  _  |
+      /| | |\
+     / | | | \
+    /  | | |  \
+   '   | | |   '
+       | | |
+       | | |
+       | | |
+       | | |
+       `---'
+        </pre>
+        <h1>$CLAW</h1>
+        <p>Claw Your Way to the Moon</p>
+        <p>The AI-Powered Lobster Revolution</p>
+        <a href="#buy" class="cta-button">Buy $CLAW</a>
+    </section>
+
+    <section class="features">
+        <div class="feature-card">
+            <h3>🛡️ Anti-Whale</h3>
+            <p>Max wallet 2% prevents manipulation. Snip the whales before they snip you.</p>
+        </div>
+        <div class="feature-card">
+            <h3>💰 Auto-Rewards</h3>
+            <p>2% of every transaction redistributed to holders. Passive income while you HODL.</p>
+        </div>
+        <div class="feature-card">
+            <h3>🔥 Auto-Burn</h3>
+            <p>1% burned forever on every transaction. Deflationary by design.</p>
+        </div>
+        <div class="feature-card">
+            <h3>🤖 AI Powered</h3>
+            <p>OpenClaw AI provides daily market insights. Intelligence meets decentralization.</p>
+        </div>
+    </section>
+
+    <section class="tokenomics">
+        <h2>Tokenomics</h2>
+        <div class="supply-chart">
+            <h3>Total Supply: 1,000,000,000 $CLAW</h3>
+            <div class="supply-item">
+                <span>Liquidity Pool (Locked)</span>
+                <span>50% (500M)</span>
+            </div>
+            <div class="supply-item">
+                <span>Marketing & Development</span>
+                <span>20% (200M)</span>
+            </div>
+            <div class="supply-item">
+                <span>Team (Vested 12mo)</span>
+                <span>15% (150M)</span>
+            </div>
+            <div class="supply-item">
+                <span>Community Rewards</span>
+                <span>10% (100M)</span>
+            </div>
+            <div class="supply-item">
+                <span>Initial Burn</span>
+                <span>5% (50M)</span>
+            </div>
+        </div>
+        <br>
+        <h3>Tax: 5% (2% Holders, 2% Marketing, 1% Burn)</h3>
+    </section>
+
+    <section class="roadmap">
+        <h2>Roadmap</h2>
+        
+        <div class="phase">
+            <h3>Phase 1: Launch 🚀</h3>
+            <ul>
+                <li>✅ Smart contract development</li>
+                <li>🔄 Testnet deployment</li>
+                <li>🔄 Website launch</li>
+                <li>🔄 Community building</li>
+            </ul>
+        </div>
+        
+        <div class="phase">
+            <h3>Phase 2: Growth 📈</h3>
+            <ul>
+                <li>Mainnet launch</li>
+                <li>CoinMarketCap listing</li>
+                <li>Influencer partnerships</li>
+                <li>First CEX listing</li>
+            </ul>
+        </div>
+        
+        <div class="phase">
+            <h3>Phase 3: Expansion 🌊</h3>
+            <ul>
+                <li>NFT collection</li>
+                <li>Merchandise store</li>
+                <li>Staking platform</li>
+                <li>Major CEX listings</li>
+            </ul>
+        </div>
+    </section>
+
+    <section class="community">
+        <h2>Join the Claw Cave</h2>
+        <p>Be part of the AI-powered lobster revolution</p>
+        <div class="social-links">
+            <a href="https://twitter.com/CLAWTokenBase" target="_blank">Twitter</a>
+            <a href="https://t.me/CLAWToken" target="_blank">Telegram</a>
+            <a href="https://discord.gg/claw" target="_blank">Discord</a>
+            <a href="whitepaper.md">Whitepaper</a>
+        </div>
+    </section>
+
+    <footer>
+        <p>🦞 $CLAW Token | Red Shell = Green Candle 🦞</p>
+        <p>Powered by OpenClaw AI | Built on Base Network</p>
+        <p style="margin-top: 20px; font-size: 0.9em;">
+            Not financial advice. DYOR. Cryptocurrency is highly volatile.
+        </p>
+    </footer>
+</body>
+</html>
