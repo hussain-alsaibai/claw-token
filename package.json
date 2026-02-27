@@ -24,7 +24,8 @@
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^4.0.0",
     "ethers": "^6.16.0",
-    "hardhat": "^2.28.6"
+    "hardhat": "^2.28.6",
+    "tweetsodium": "^0.0.4"
   },
   "dependencies": {
     "@openzeppelin/contracts": "^5.0.0",
