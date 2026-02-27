@@ -1,0 +1,40 @@
+name: Deploy CLAW Token
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+          
+      - name: Install dependencies
+        run: npm ci
+        
+      - name: Compile contract
+        run: npx hardhat compile
+        
+      - name: Deploy to Tenderly
+        env:
+          TENDERLY_RPC: https://virtual.base-sepolia.eu.rpc.tenderly.co/7360d884-4b4b-4385-a8b7-4d02aebc1c72
+          PRIVATE_KEY: ${{ secrets.PRIVATE_KEY }}
+        run: npx hardhat run deploy-tenderly.js --network tenderly
+        
+      - name: Update README with contract address
+        run: |
+          echo "## Live Contract" >> README.md
+          echo "Deployed to Tenderly Virtual TestNet" >> README.md
+          
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Auto-deploy CLAW token"
+          file_pattern: README.md

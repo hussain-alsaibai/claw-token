@@ -12,6 +12,12 @@ module.exports = {
     }
   },
   networks: {
+    // Tenderly Virtual TestNet (LIVE)
+    tenderly: {
+      url: "https://virtual.base-sepolia.eu.rpc.tenderly.co/7360d884-4b4b-4385-a8b7-4d02aebc1c72",
+      accounts: ["0x0c4ad5af11eee32f5389fd35a64e64c2bad466191fc6543ba8e0efd5941ab5a4"],
+      chainId: 84532
+    },
     // Base Testnet (Goerli)
     baseGoerli: {
       url: "https://goerli.base.org",
