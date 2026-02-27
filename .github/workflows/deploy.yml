@@ -5,6 +5,10 @@ on:
     branches: [ main ]
   workflow_dispatch:
 
+env:
+  TENDERLY_RPC: ${{ vars.TENDERLY_RPC_URL }}
+  NETWORK_ID: ${{ vars.NETWORK_ID }}
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
@@ -24,9 +28,9 @@ jobs:
         
       - name: Deploy to Tenderly
         env:
-          TENDERLY_RPC: https://virtual.base-sepolia.eu.rpc.tenderly.co/7360d884-4b4b-4385-a8b7-4d02aebc1c72
-          PRIVATE_KEY: ${{ secrets.PRIVATE_KEY }}
-        run: npx hardhat run deploy-tenderly.js --network tenderly
+          PRIVATE_KEY: ${{ secrets.DEPLOYER_PRIVATE_KEY }}
+          TENDERLY_RPC: ${{ vars.TENDERLY_RPC_URL }}
+        run: npx hardhat run deploy.js --network tenderly
         
       - name: Update README with contract address
         run: |
