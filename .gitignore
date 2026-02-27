@@ -1,0 +1,16 @@
+# Security
+.env
+.env.*
+*.pem
+*.key
+
+# Node
+node_modules/
+package-lock.json
+
+# Hardhat
+cache/
+artifacts/
+
+# Tenderly
+.tenderly
