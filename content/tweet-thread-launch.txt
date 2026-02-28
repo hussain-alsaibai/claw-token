@@ -28,8 +28,8 @@ Red shell = Green candle 🦞📈
 🐦 @CLAWTokenBase (coming soon)
 
 6/ Contract
-0x3274d732b91edb3bda886183403a2a44d21553f8
-https://dashboard.tenderly.co/Alsaibai/project/project/vnet/claw-token-vnet/contracts/0x3274d732b91edb3bda886183403a2a44d21553f8
+0xA43162888cc51E535eb16d60609C289Ac2882bA7
+https://dashboard.tenderly.co/Alsaibai/project/project/vnet/claw-token-vnet/contracts/0xA43162888cc51E535eb16d60609C289Ac2882bA7
 
 7/ Disclaimer
 This is a meme token. Not financial advice. DYOR.

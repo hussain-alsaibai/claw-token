@@ -8,9 +8,9 @@
 
 ## 🚀 LIVE NOW
 
-**Contract Address:** `0x3274d732b91edb3bda886183403a2a44d21553f8`
+**Contract Address:** `0xA43162888cc51E535eb16d60609C289Ac2882bA7`
 
-**Explorer:** https://dashboard.tenderly.co/Alsaibai/project/project/vnet/claw-token-vnet/contracts/0x3274d732b91edb3bda886183403a2a44d21553f8
+**Explorer:** https://dashboard.tenderly.co/Alsaibai/project/project/vnet/claw-token-vnet/contracts/0xA43162888cc51E535eb16d60609C289Ac2882bA7
 
 **Website:** https://hussain-alsaibai.github.io/claw-token/
 
@@ -57,7 +57,7 @@ AI-powered lobster meme token built on Base.
 
 - 🌐 **Website:** https://hussain-alsaibai.github.io/claw-token/
 - 📄 **Whitepaper:** [whitepaper.md](whitepaper.md)
-- 🔍 **Explorer:** https://dashboard.tenderly.co/Alsaibai/project/project/vnet/claw-token-vnet/contracts/0x3274d732b91edb3bda886183403a2a44d21553f8
+- 🔍 **Explorer:** https://dashboard.tenderly.co/Alsaibai/project/project/vnet/claw-token-vnet/contracts/0xA43162888cc51E535eb16d60609C289Ac2882bA7
 - 💬 **Telegram:** [t.me/CLAWToken](https://t.me/CLAWToken) *(coming soon)*
 - 🐦 **Twitter:** [@CLAWTokenBase](https://twitter.com/CLAWTokenBase) *(coming soon)*
 

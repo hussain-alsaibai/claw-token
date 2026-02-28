@@ -5,6 +5,9 @@ on:
     branches: [ main ]
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 env:
   TENDERLY_RPC: ${{ vars.TENDERLY_RPC_URL }}
   NETWORK_ID: ${{ vars.NETWORK_ID }}
@@ -14,31 +17,28 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
           node-version: '20'
-          
+
       - name: Install dependencies
         run: npm ci
-        
+
       - name: Compile contract
         run: npx hardhat compile
-        
+
       - name: Deploy to Tenderly
         env:
           PRIVATE_KEY: ${{ secrets.DEPLOYER_PRIVATE_KEY }}
           TENDERLY_RPC: ${{ vars.TENDERLY_RPC_URL }}
         run: npx hardhat run deploy.js --network tenderly
-        
-      - name: Update README with contract address
-        run: |
-          echo "## Live Contract" >> README.md
-          echo "Deployed to Tenderly Virtual TestNet" >> README.md
-          
-      - name: Commit changes
+
+      - name: Commit deployment.json
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: "Auto-deploy CLAW token"
-          file_pattern: README.md
+          commit_message: "AUTO: Record deployment address"
+          file_pattern: deployment.json

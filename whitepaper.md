@@ -4,7 +4,7 @@
 **Version:** 1.0  
 **Date:** February 2026  
 **Network:** Base (Ethereum L2)  
-**Contract:** `0x3274d732b91edb3bda886183403a2a44d21553f8` (Base Sepolia Testnet)
+**Contract:** `0xA43162888cc51E535eb16d60609C289Ac2882bA7` (Base Sepolia Testnet)
 
 ---
 
