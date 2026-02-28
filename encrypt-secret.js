@@ -5,7 +5,7 @@ const publicKey = 'WToU7cZ4HWc6ZtmTpqzl4r8PRSkHidwQYAPwUunEMDw=';
 const keyId = '3380204578043523366';
 
 // The secret value (private key)
-const secretValue = '0xd7be96c93eb32fa9f1e118764de552dadb49d350a0963a94b4e3c2d7ee6b0e0f';
+const secretValue = '[ROTATED]';
 
 // Encrypt the secret
 const messageBytes = Buffer.from(secretValue);

@@ -17,7 +17,7 @@
 
 ### Required (BLOCKING)
 - [ ] GitHub Secret DEPLOYER_PRIVATE_KEY added
-  - Value: `0xd7be96c93eb32fa9f1e118764de552dadb49d350a0963a94b4e3c2d7ee6b0e0f`
+  - Value: `[ROTATED - see GitHub Secret]`
   - URL: https://github.com/hussain-alsaibai/claw-token/settings/secrets/actions
 
 ### Optional (Post-Launch)
