@@ -6,13 +6,16 @@ module.exports = {
     sources: "./src",
   },
   solidity: {
-    version: "0.8.19",
-    settings: {
-      optimizer: {
-        enabled: true,
-        runs: 200
+    compilers: [
+      {
+        version: "0.8.19",
+        settings: { optimizer: { enabled: true, runs: 200 } }
+      },
+      {
+        version: "0.8.13",
+        settings: { optimizer: { enabled: true, runs: 200 } }
       }
-    }
+    ]
   },
   networks: {
     // Tenderly Virtual TestNet (uses env vars)
