@@ -53,7 +53,7 @@ Philosophical one today. Let's hear it. 👇
 
 You don't need to be a developer to verify $CLAW.
 
-Go to BaseScan → search: 0xA43162888cc51E535eb16d60609C289Ac2882bA7 (testnet)
+Go to BaseScan → search: 0x6ae6829d87eEaE1fFF4006E8BB310f4e92546cB1 (testnet)
 Look for:
 → ✅ "Contract Verified" = source code is public
 → 📋 "Read Contract" = check current tax rates, owner address

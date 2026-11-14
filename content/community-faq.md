@@ -54,7 +54,7 @@ A: 3% total: 2% to holders + 1% burn. No hidden fees.
 A: Base — Coinbase's Layer 2 built on Ethereum. Fast, cheap, growing fast.
 
 **Q: What's the contract address?**
-A: Testnet (Base Sepolia): `0xA43162888cc51E535eb16d60609C289Ac2882bA7`
+A: Testnet (Tenderly Virtual TestNet): `0x6ae6829d87eEaE1fFF4006E8BB310f4e92546cB1`
 Mainnet: Coming soon — will be announced on all official channels.
 
 **Q: Where can I buy $CLAW?**

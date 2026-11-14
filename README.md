@@ -20,7 +20,7 @@
 
 ## 🎉 Deployment Confirmed
 
-- **Network:** Tenderly Virtual TestNet (Base Sepolia)
+- **Network:** Tenderly Virtual TestNet (Base-Sepolia-compatible, chain ID 84532)
 - **Chain ID:** 84532
 - **Status:** ✅ Verified and Live
 - **Transaction:** `0xc6fff9f399066bb7fbfa5c509ff0e3160dc1e4856bd6249db68d1ba491b7a6cd`

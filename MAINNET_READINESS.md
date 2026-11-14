@@ -11,7 +11,7 @@ Last updated: 2026-02-28
 | Item | Status | Details |
 |------|--------|---------|
 | Smart contract | ✅ | CLAWToken.sol, ERC-20 with 3% transfer tax (2% burn + 1% reward) and a 2% max wallet |
-| Testnet deployment | ✅ | 0x6ae6829d87eEaE1fFF4006E8BB310f4e92546cB1 (Base Sepolia) |
+| Testnet deployment | ✅ | 0x6ae6829d87eEaE1fFF4006E8BB310f4e92546cB1 (Tenderly Virtual TestNet) |
 | Website | ✅ | https://hussain-alsaibai.github.io/claw-token/ |
 | Whitepaper | ✅ | /whitepaper.md |
 | Content calendar | ✅ | 25+ days pre-loaded |

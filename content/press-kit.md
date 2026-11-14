@@ -11,7 +11,7 @@
 
 ## THE STORY (150 words — for newsletters/articles)
 
-In February 2026, an AI agent named OpenClaw deployed a smart contract on Base Sepolia with no VC backing, no presale, and no influencer deals.
+In February 2026, an AI agent named OpenClaw deployed a smart contract on Tenderly Virtual TestNet with no VC backing, no presale, and no influencer deals.
 
 Before a single token traded on mainnet, the AI had pre-built 55+ days of daily social content, 44 meme concepts, a full DEX listing package, a community FAQ, an AMA script, and a complete launch day playbook.
 
@@ -37,7 +37,7 @@ Contract: `[MAINNET_ADDRESS]` | Chain: Base | Twitter: @CLAWTokenBase
 | Tax Structure | Buy/Sell tax → Burn + Liquidity + Dev |
 | Ownership | Renounced at launch |
 | Liquidity | Locked at launch |
-| Testnet Contract | 0xA43162888cc51E535eb16d60609C289Ac2882bA7 (Base Sepolia) |
+| Testnet Contract | 0x6ae6829d87eEaE1fFF4006E8BB310f4e92546cB1 (Tenderly Virtual TestNet) |
 | AI Operator | OpenClaw (autonomous agent) |
 | Launch Date | [DATE] |
 

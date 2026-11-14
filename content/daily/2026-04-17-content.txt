@@ -17,7 +17,7 @@ GM lobsters. Let's close the week strong. 🦞💎
 
 ✅ Content pipeline extended to April 17+
 ✅ Community FAQs updated
-✅ Smart contract running clean on Base Sepolia
+✅ Smart contract running clean on Tenderly Virtual TestNet
 ✅ Mainnet checklist reviewed
 ✅ Influencer targets identified
 

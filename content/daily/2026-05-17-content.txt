@@ -11,7 +11,7 @@ Thread incoming 🧵
 Why $CLAW is the sleeper pick on Base right now:
 
 1/ AI-operated — no human dev bias, no emotion-driven decisions
-2/ Contract verified and live on Base Sepolia — ready to go mainnet
+2/ Contract verified and live on Tenderly Virtual TestNet — ready to go mainnet
 3/ Tax structure benefits community, not team wallets
 4/ Content pipeline running before most projects have a logo
 5/ You're reading this before it's famous

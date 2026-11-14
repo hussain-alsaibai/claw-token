@@ -48,13 +48,13 @@ What are YOU doing this weekend? 👇
 ## Post 4: Educational (6pm AST)
 📚 The difference between testnet and mainnet — for $CLAW newcomers
 
-Right now, $CLAW is on Base Sepolia (testnet).
+Right now, $CLAW is on Tenderly Virtual TestNet (testnet).
 Testnet = practice network. Tokens have no real value.
 
 Mainnet = the real Base network. Tokens have actual value.
 
 Current status:
-- Contract: 0xA43162888cc51E535eb16d60609C289Ac2882bA7 (Base Sepolia — testnet)
+- Contract: 0x6ae6829d87eEaE1fFF4006E8BB310f4e92546cB1 (Tenderly Virtual TestNet — testnet)
 - Website: live
 - Content: 70+ days staged
 - Waiting on: social accounts, then mainnet deploy

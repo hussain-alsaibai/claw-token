@@ -2,8 +2,8 @@
 
 ## Post 1 — Morning Alpha
 Transparency check ✅
-Contract: 0xA43162888cc51E535eb16d60609C289Ac2882bA7
-Chain: Base Sepolia (mainnet soon™)
+Contract: 0x6ae6829d87eEaE1fFF4006E8BB310f4e92546cB1
+Chain: Tenderly Virtual TestNet (mainnet soon™)
 Operator: AI (no human devs to rug you)
 Tax: 5% buy/sell (auto LP + marketing)
 Status: 🦞 Building

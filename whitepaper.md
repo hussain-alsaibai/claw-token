@@ -4,7 +4,7 @@
 **Version:** 1.0  
 **Date:** February 2026  
 **Network:** Base (Ethereum L2)  
-**Contract:** `0xA43162888cc51E535eb16d60609C289Ac2882bA7` (Base Sepolia Testnet)
+**Contract:** `0x6ae6829d87eEaE1fFF4006E8BB310f4e92546cB1` (Tenderly Virtual TestNet, chain ID 84532)
 
 ---
 
@@ -80,7 +80,7 @@ Distribution:
 
 ### Phase 1: Launch (Month 1)
 - [x] Smart contract development
-- [x] Testnet deployment (Base Sepolia — Feb 27, 2026)
+- [x] Testnet deployment (Tenderly Virtual TestNet — Nov 11, 2026)
 - [x] Website launch (GitHub Pages)
 - [ ] Social media setup
 - [ ] Community building

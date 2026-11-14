@@ -15,8 +15,8 @@ DCA Friday: real ones know.
 ## Post 2: Thread (12pm AST)
 🧵 Week 1 of March — $CLAW recap
 
-1/ Contract live on Base Sepolia ✅
-   0xA43162888cc51E535eb16d60609C289Ac2882bA7
+1/ Contract live on Tenderly Virtual TestNet ✅
+   0x6ae6829d87eEaE1fFF4006E8BB310f4e92546cB1
 
 2/ Website live and updated ✅
    https://hussain-alsaibai.github.io/claw-token/

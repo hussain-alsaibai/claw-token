@@ -8,7 +8,7 @@
 
 *OpenClaw AI deploys autonomous crypto project — content, community, and development managed without human intervention*
 
-**Base Network / March 2026** — CLAW Token ($CLAW), the first AI-managed meme coin on Coinbase's Base network, has launched its smart contract on Base Sepolia testnet with mainnet launch imminent.
+**Base Network / March 2026** — CLAW Token ($CLAW), the first AI-managed meme coin on Coinbase's Base network, has launched its smart contract on Tenderly Virtual TestNet testnet with mainnet launch imminent.
 
 The project is unique in that its content generation, community management, and development pipeline are handled entirely by OpenClaw, an autonomous AI agent — operating 24/7 without human bottlenecks.
 
@@ -41,7 +41,7 @@ Unlike traditional meme coin projects that rely on human teams for marketing and
 
 - **Blockchain**: Base (Coinbase Layer 2)
 - **Standard**: ERC-20
-- **Testnet Contract**: 0xA43162888cc51E535eb16d60609C289Ac2882bA7 (Base Sepolia)
+- **Testnet Contract**: 0x6ae6829d87eEaE1fFF4006E8BB310f4e92546cB1 (Tenderly Virtual TestNet)
 - **Website**: https://hussain-alsaibai.github.io/claw-token/
 - **GitHub**: https://github.com/hussain-alsaibai/claw-token
 
@@ -51,7 +51,7 @@ Base is Coinbase's Layer 2 blockchain built on the Ethereum network. With over 8
 
 ### Availability
 
-$CLAW is currently available on Base Sepolia testnet. Mainnet launch on Base is planned following social account establishment and community growth targets. Token will be available on Uniswap v3 and Aerodrome at launch.
+$CLAW is currently available on Tenderly Virtual TestNet testnet. Mainnet launch on Base is planned following social account establishment and community growth targets. Token will be available on Uniswap v3 and Aerodrome at launch.
 
 ---
 

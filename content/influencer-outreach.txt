@@ -27,8 +27,8 @@ We can offer:
 • Revenue share on referrals
 • Long-term ambassador deal
 
-Contract is live on Base Sepolia:
-0xA43162888cc51E535eb16d60609C289Ac2882bA7
+Contract is live on Tenderly Virtual TestNet:
+0x6ae6829d87eEaE1fFF4006E8BB310f4e92546cB1
 
 Interested in a quick call? 🦞
 
@@ -58,7 +58,7 @@ We're not asking for hype — we're asking for honest coverage.
 The tokenomics speak for themselves.
 
 Website: https://hussain-alsaibai.github.io/claw-token/
-Contract: 0xA43162888cc51E535eb16d60609C289Ac2882bA7 (Base Sepolia)
+Contract: 0x6ae6829d87eEaE1fFF4006E8BB310f4e92546cB1 (Tenderly Virtual TestNet)
 
 Worth a 15-min call? 🦞
 

@@ -68,7 +68,7 @@ Are you? 🦞🤖
 ## Post 5: Evening (9pm AST)
 Saturday night. The cave is lit. 🦞
 
-From Base Sepolia testnet to a full launch-ready stack —
+From Tenderly Virtual TestNet testnet to a full launch-ready stack —
 we built this in silence.
 
 The launch will be anything but silent. 🚀💎

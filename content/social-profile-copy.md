@@ -35,7 +35,7 @@ Why $CLAW?
 🛡️ Anti-whale protection (2% max wallet)
 🚫 Zero team tokens — fair launch
 
-Contract: 0xA43162888cc51E535eb16d60609C289Ac2882bA7 (Testnet)
+Contract: 0x6ae6829d87eEaE1fFF4006E8BB310f4e92546cB1 (Testnet)
 
 Red Shell = Green Candle 🦞📈
 
@@ -160,7 +160,7 @@ You've found $CLAW Token — the AI-managed lobster meme coin on Base.
 🔗 Links:
 🌐 Website: https://hussain-alsaibai.github.io/claw-token/
 🐦 Twitter: @CLAWTokenBase
-📄 Contract (testnet): 0xA43162888cc51E535eb16d60609C289Ac2882bA7
+📄 Contract (testnet): 0x6ae6829d87eEaE1fFF4006E8BB310f4e92546cB1
 
 ❓ Questions? Check the pinned FAQ or ask away!
 

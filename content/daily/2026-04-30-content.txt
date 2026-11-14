@@ -18,7 +18,7 @@ May is going to be different. 🚀
 
 April 2026 wrap-up 🧵
 
-✅ Smart contract deployed on Base Sepolia
+✅ Smart contract deployed on Tenderly Virtual TestNet
 ✅ 57+ days of content ready to fire
 ✅ DEX listing packages prepared for 4 platforms
 ✅ Press kit + press release ready

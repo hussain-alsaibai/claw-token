@@ -76,7 +76,7 @@ That's not waiting — that's working. 🦞💎"
 Week 1 of March in the books.
 
 Community growing.
-Contract live on Base Sepolia.
+Contract live on Tenderly Virtual TestNet.
 Mainnet coming.
 
 The claw only moves forward. 🦞

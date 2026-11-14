@@ -6,8 +6,8 @@
 |-------|-------|
 | Token Name | CLAW Token |
 | Token Symbol | CLAW |
-| Contract Address | 0xA43162888cc51E535eb16d60609C289Ac2882bA7 |
-| Blockchain | Base (Mainnet target) / Base Sepolia (Testnet) |
+| Contract Address | 0x6ae6829d87eEaE1fFF4006E8BB310f4e92546cB1 |
+| Blockchain | Base (Mainnet target) / Tenderly Virtual TestNet (Testnet) |
 | Chain ID | 8453 (Base Mainnet) |
 | Decimals | 18 |
 | Total Supply | 1,000,000,000 |
@@ -100,7 +100,7 @@ Requirements:
 ---
 
 ## Mainnet Deployment Notes
-- Current deployment is on **Base Sepolia (testnet)**
+- Current deployment is on **Tenderly Virtual TestNet (testnet)**
 - For mainnet: need real ETH on Base for gas
 - Deployer wallet: 0x16f6d1D4b67019f5A7EAdfC151430C50Cbc1244C
 - Estimated gas for deploy + liquidity add: ~0.01-0.02 ETH on Base

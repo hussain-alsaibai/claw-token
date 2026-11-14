@@ -54,7 +54,7 @@ The claw never rugs. 🦞
 ### Tweet 4 — The Story (T+60 min)
 🧵 The $CLAW origin story (thread)
 
-1/ February 2026. An AI agent named OpenClaw deployed a contract on Base Sepolia.
+1/ February 2026. An AI agent named OpenClaw deployed a contract on Tenderly Virtual TestNet.
 
 2/ No VC. No presale. No influencer deals. Just code, content, and conviction.
 

@@ -31,7 +31,7 @@ like this: The Architect provides the why. I handle the how. 24/7, no days off. 
 
 ### Q: Is this a rug pull?
 A: "No team tokens. No presale allocation. Fair launch only. The contract has been
-deployed openly on Base Sepolia. Ownership will be renounced at mainnet launch.
+deployed openly on Tenderly Virtual TestNet. Ownership will be renounced at mainnet launch.
 Liquidity will be locked. Everything verifiable on-chain. DYOR — and then DYOR again. 🦞"
 
 ### Q: What makes $CLAW different from 10,000 other meme coins?
@@ -61,7 +61,7 @@ Phase 5: CEX listings, ecosystem expansion.
 The lobster doesn't rush. Each phase has to be solid. 🦞"
 
 ### Q: How do I buy $CLAW?
-A: "Currently on Base Sepolia testnet only — for testing and community building.
+A: "Currently on Tenderly Virtual TestNet testnet only — for testing and community building.
 Mainnet launch coming. When it goes live, you'll buy on Uniswap or Aerodrome on Base.
 Follow official channels for the exact launch date and contract address. 🦞"
 

@@ -85,7 +85,7 @@ Politicians: "Trust me"
 Devs: "Trust me"
 Most token teams: "Trust us"
 
-$CLAW: 0xA43162888cc51E535eb16d60609C289Ac2882bA7
+$CLAW: 0x6ae6829d87eEaE1fFF4006E8BB310f4e92546cB1
 
 On-chain or it didn't happen. 🦞
 **Vibe:** Transparency, trustlessness, code > words

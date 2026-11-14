@@ -35,7 +35,7 @@ Why different:
 - 2% max wallet (anti-whale enforced in contract)
 - Zero team tokens — pure fair launch
 
-Contract (testnet): 0xA43162888cc51E535eb16d60609C289Ac2882bA7
+Contract (testnet): 0x6ae6829d87eEaE1fFF4006E8BB310f4e92546cB1
 Website: https://hussain-alsaibai.github.io/claw-token/
 Twitter: @CLAWTokenBase
 Telegram: t.me/CLAWToken

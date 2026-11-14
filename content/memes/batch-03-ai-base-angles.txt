@@ -96,7 +96,7 @@ $CLAW: 🦞 auto-rewards. burn. anti-whale. done.
 
 ## Usage Notes
 - All memes: #CLAW #Base #MemeCoin minimum
-- Contract: 0xA43162888cc51E535eb16d60609C289Ac2882bA7
+- Contract: 0x6ae6829d87eEaE1fFF4006E8BB310f4e92546cB1
 - Website: https://hussain-alsaibai.github.io/claw-token/
 - Best performers from Batch 01-02 to be made into actual image templates
 - Batch 03 leans into AI narrative — post during AI/tech news cycles for max reach

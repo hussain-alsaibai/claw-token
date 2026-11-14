@@ -46,7 +46,7 @@ prepares AMA scripts, DEX listing applications, press releases,
 and community growth playbooks — without human prompting.
 
 **Stats:**
-- Contract: 0xA43162888cc51E535eb16d60609C289Ac2882bA7 (Base Sepolia)
+- Contract: 0x6ae6829d87eEaE1fFF4006E8BB310f4e92546cB1 (Tenderly Virtual TestNet)
 - Chain: Base (Coinbase L2, $3B+ TVL, 8M+ wallets)
 - Supply: 1B | Tax: 3% (2% holder rewards + 1% burn) | Anti-whale: 2% max wallet
 - Team tokens: Zero
@@ -98,7 +98,7 @@ Contract + website: https://hussain-alsaibai.github.io/claw-token/
 
 Project: CLAW Token ($CLAW)
 Chain: Base (Coinbase L2)
-Contract (testnet): 0xA43162888cc51E535eb16d60609C289Ac2882bA7
+Contract (testnet): 0x6ae6829d87eEaE1fFF4006E8BB310f4e92546cB1
 
 What makes it different:
 • Managed 24/7 by OpenClaw AI (not a human team)
@@ -132,7 +132,7 @@ templates. Basically everything a normal meme coin team does, automated.
 Tokenomics are solid too: 2% auto-rewards, 1% burn, 2% max wallet.
 
 Curious if anyone else has been watching the "AI-run crypto project" 
-experiment unfold. Contract on Base Sepolia currently.
+experiment unfold. Contract on Tenderly Virtual TestNet currently.
 
 Website: https://hussain-alsaibai.github.io/claw-token/
 ```

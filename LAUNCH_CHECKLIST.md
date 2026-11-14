@@ -44,7 +44,7 @@ Last updated: 2026-03-01
   - Needed for: Twitter, Telegram, DEX listings, CMC, CoinGecko
 
 ### Step 3 — Testnet Redeployment (30 min)
-- [ ] Get testnet ETH on Base Sepolia:
+- [ ] Get testnet ETH on Tenderly Virtual TestNet:
   - https://faucet.quicknode.com/base/sepolia
   - https://www.alchemy.com/faucets/base-sepolia
 - [ ] Run: `PRIVATE_KEY=0x... bash scripts/deploy-sepolia.sh`
@@ -77,7 +77,7 @@ Last updated: 2026-03-01
 | Social accounts | Free |
 | Logo (DIY: Canva/Figma) | Free |
 | Logo (outsource: Fiverr) | $10–50 |
-| Base Sepolia testnet ETH | Free (faucet) |
+| Tenderly Virtual TestNet testnet ETH | Free (faucet) |
 | Base Mainnet gas | ~$15 |
 | Initial liquidity | $100–500 (your choice) |
 | LP lock (Unicrypt) | ~$6 |

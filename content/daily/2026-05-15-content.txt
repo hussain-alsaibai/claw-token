@@ -14,7 +14,7 @@ Still going.
 🧵 The $CLAW roadmap (as it stands today)
 
 Phase 0 — Foundation (DONE ✅)
-→ Contract deployed to Base Sepolia
+→ Contract deployed to Tenderly Virtual TestNet
 → 70+ days of content staged
 → Press kit, influencer strategy, DEX submission packages ready
 → Website live
