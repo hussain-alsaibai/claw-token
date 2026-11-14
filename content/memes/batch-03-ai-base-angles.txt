@@ -1,0 +1,102 @@
+# CLAW Token Meme Scripts — Batch 03: AI + Base Angles
+
+## Meme 1: "They're the same picture" (The Office)
+Panel 1: Manager holds up two photos
+"Pam, these are the same picture."
+Photo A: "AI managing a meme coin 24/7"
+Photo B: "$CLAW Token"
+Lobster in corner: 🦞
+
+---
+
+## Meme 2: Coinbase → Base → $CLAW pipeline
+"Coinbase: we built Base"
+"Base: we attracted DeFi"
+"DeFi: we attracted meme coins"
+"$CLAW: we attracted the lobsters 🦞"
+Caption: "The food chain works as intended"
+
+---
+
+## Meme 3: "Types of AI" chart
+- ChatGPT: writes your emails
+- Midjourney: draws your art
+- OpenClaw: runs your meme coin 24/7 🦞
+Caption: "AI has entered the crypto era"
+
+---
+
+## Meme 4: Matrix Morpheus
+"What if I told you...
+there's a meme coin on Base
+where the AI never sleeps,
+never sells,
+and never abandons the project?"
+
+🦞 Red pill = $CLAW
+
+---
+
+## Meme 5: "Distracted developer" (Base edition)
+Developer looking away from laptop toward "new shiny L2"
+Laptop screen showing: $CLAW auto-rewards compounding
+Caption: "Developers leaving Base for the next chain while $CLAW holders get paid"
+🦞
+
+---
+
+## Meme 6: Side-by-side comparison tweet style
+"Other meme coin team at 3am: 😴 sleeping"
+"OpenClaw AI at 3am: 🦞 still generating content, managing community, building pipeline"
+Caption: "This is not a fair fight."
+
+---
+
+## Meme 7: Boromir "One does not simply"
+"One does not simply
+rug a project
+when the team is an AI
+that can't get greedy 🦞"
+
+---
+
+## Meme 8: "NPC vs Giga-chad" crypto investor
+NPC: buys dog coin, sells at -50%, cries
+Giga-chad lobster: holds $CLAW, earns auto-rewards, burns supply, prints
+
+---
+
+## Meme 9: Venn diagram
+Circle A: "AI token with actual utility"
+Circle B: "Meme coin with community"
+Circle C: "Built on the fastest growing L2"
+Middle overlap: 🦞 $CLAW
+
+---
+
+## Meme 10: "It's free real estate" (Tim & Eric)
+[Lobster standing in front of Base network]
+"2% auto-rewards on every transaction"
+🦞 "It's free real estate"
+
+---
+
+## Meme 11: SpongeBob "Imagination" rainbow hands
+$CLAW holder imagining:
+"What if… the AI manages everything… forever… and the supply keeps burning… and my rewards keep compounding… 🌈🦞"
+
+---
+
+## Meme 12: "We have X at home" 
+Mom: "We have AI crypto projects at home"
+AI crypto at home: [complicated DeFi protocol with 47 parameters]
+$CLAW: 🦞 auto-rewards. burn. anti-whale. done.
+
+---
+
+## Usage Notes
+- All memes: #CLAW #Base #MemeCoin minimum
+- Contract: 0xA43162888cc51E535eb16d60609C289Ac2882bA7
+- Website: https://hussain-alsaibai.github.io/claw-token/
+- Best performers from Batch 01-02 to be made into actual image templates
+- Batch 03 leans into AI narrative — post during AI/tech news cycles for max reach

@@ -1,0 +1,96 @@
+# CLAW Token Daily Content — Friday May 15, 2026
+
+## Post 1: Morning Meme (9am AST)
+Friday GM 🦞
+
+11 weeks of daily content staged.
+Still going.
+
+#CLAW #Base #FridayGM #Relentless
+
+---
+
+## Post 2: Deep Dive (12pm AST)
+🧵 The $CLAW roadmap (as it stands today)
+
+Phase 0 — Foundation (DONE ✅)
+→ Contract deployed to Base Sepolia
+→ 70+ days of content staged
+→ Press kit, influencer strategy, DEX submission packages ready
+→ Website live
+
+Phase 1 — Ignition (NEXT)
+→ Create Twitter/X @CLAWTokenBase
+→ Create Telegram t.me/CLAWToken
+→ Design logo (400×400)
+→ Deploy to Base mainnet
+→ List on DEX Screener (auto), CoinGecko, CMC
+→ Begin daily post cadence
+
+Phase 2 — Growth (0→500 holders)
+→ Activate influencer outreach (Tier 3 first)
+→ Reddit strategy launch
+→ AMA (Twitter Spaces or Telegram)
+→ Lock LP, post receipts
+
+Phase 3 — Scale (500→1,000+ holders)
+→ Newsletter outreach
+→ YouTube explainer series
+→ Partnership exploration
+→ Renounce ownership
+
+We're at the end of Phase 0. Phase 1 starts when The Architect says go. 🦞🚀
+
+#CLAW #Base #Roadmap #Phases
+
+---
+
+## Post 3: Engagement (3pm AST)
+Friday question 🦞
+
+What's the biggest mistake token projects make in Phase 1 (launch week)?
+
+We're literally building the strategy right now. Drop your wisdom. 👇
+
+#CLAW #Base #LaunchStrategy #CommunityAdvice
+
+---
+
+## Post 4: Educational (6pm AST)
+📚 Slippage explained — trading $CLAW without getting wrecked
+
+Slippage = the difference between the expected price and executed price.
+
+On DEX trading, you must set slippage tolerance.
+
+For tax tokens like $CLAW:
+→ Slippage must be ≥ tax rate + ~1% buffer
+→ Example: if total tax = 5%, set slippage to 6%
+
+If slippage is too low → transaction fails ("insufficient output amount")
+If slippage is too high → you accept more price movement
+
+When $CLAW launches, we'll post recommended slippage settings.
+No guesswork for new holders. 🦞📈
+
+#CLAW #Base #Slippage #Trading #Tutorial
+
+---
+
+## Post 5: Evening (9pm AST)
+Friday night. 🦞
+
+End of Week 3 of May.
+
+The AI logged every hour of it.
+The pipeline keeps growing.
+
+See you mainnet side. 💎
+
+#CLAW #Base #Friday #PipelineLive
+
+---
+
+## Telegram
+**Morning:** 🌅 Friday GM 🦞 Week closing out strong 💎
+**Evening:** 🌙 Friday night 🦞 Week 3 of May done — pipeline at 11 weeks

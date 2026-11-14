@@ -1,0 +1,58 @@
+name: Deploy CLAW Token
+
+# Deploying on every push to main meant that every documentation change,
+# every build-artifact refresh and every content edit deployed a NEW contract.
+# Each deployment burned a new address, and the old one silently kept holding
+# whatever balance and allowance it had.
+#
+# A deployment is now explicit: workflow_dispatch only. The contract source is
+# still verified by CI on every push, so a broken contract can never reach a
+# deployment without a human asking for one.
+#
+# The auto-commit of deployment.json does not re-trigger this workflow:
+# GitHub does not run workflows for pushes made with GITHUB_TOKEN.
+on:
+    workflow_dispatch:
+        inputs:
+            reason:
+                description: 'Why is this deployment being made?'
+                required: true
+                type: string
+
+permissions:
+    contents: write
+
+env:
+    TENDERLY_RPC: ${{ vars.TENDERLY_RPC_URL }}
+    NETWORK_ID: ${{ vars.NETWORK_ID }}
+
+jobs:
+    deploy:
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v3
+              with:
+                  token: ${{ secrets.GITHUB_TOKEN }}
+
+            - name: Setup Node.js
+              uses: actions/setup-node@v3
+              with:
+                  node-version: '20'
+
+            - name: Install dependencies
+              run: npm ci
+
+            - name: Compile contract
+              run: npx hardhat compile
+
+            - name: Deploy to Tenderly
+              env:
+                  PRIVATE_KEY: ${{ secrets.DEPLOYER_PRIVATE_KEY }}
+                  TENDERLY_RPC: ${{ vars.TENDERLY_RPC_URL }}
+              run: npx hardhat run deploy.js --network tenderly
+
+            - name: Commit deployment.json
+              uses: stefanzweifel/git-auto-commit-action@v4
+              with:
+                  commit_message: "AUTO: Record deployment address (${{ github.event.inputs.reason }})"
+                  file_pattern: deployment.json

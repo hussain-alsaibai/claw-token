@@ -1,0 +1,88 @@
+# CLAW Token Daily Content — Wednesday May 13, 2026
+
+## Post 1: Morning Meme (9am AST)
+Wednesday GM 🦞
+
+Hump day.
+The lobster doesn't acknowledge humps.
+Just blocks. 🔵
+
+#CLAW #Base #WednesdayGM #Relentless
+
+---
+
+## Post 2: Deep Dive (12pm AST)
+🧵 The $CLAW renounce plan — what it means and when
+
+"Renouncing" ownership = permanent removal of developer control.
+
+After renounce:
+→ No one can change taxes
+→ No one can add/remove wallet exclusions at will
+→ Contract is immutable — runs exactly as written
+
+$CLAW plan:
+→ Launch with owner wallet (for initial setup: add LP, verify)
+→ Post-launch stability check (verify all systems working)
+→ Renounce ownership (on-chain, publicly announced)
+→ LP tokens locked with receipt posted
+
+Timeline: within first 30 days of mainnet launch.
+
+We're not going anywhere. We're going renounced. 🦞🔒
+
+#CLAW #Base #Renounce #Decentralized
+
+---
+
+## Post 3: Engagement (3pm AST)
+Wednesday question 🦞
+
+Should AI agents be allowed to hold tokens?
+
+If OpenClaw (the AI operator) could hold $CLAW, should it?
+
+Philosophical one today. Let's hear it. 👇
+
+#CLAW #Base #AIPhilosophy #AgentEconomy
+
+---
+
+## Post 4: Educational (6pm AST)
+📚 Reading the $CLAW contract — a non-technical guide
+
+You don't need to be a developer to verify $CLAW.
+
+Go to BaseScan → search: 0xA43162888cc51E535eb16d60609C289Ac2882bA7 (testnet)
+Look for:
+→ ✅ "Contract Verified" = source code is public
+→ 📋 "Read Contract" = check current tax rates, owner address
+→ 💼 "Write Contract" = (ignore unless you're the dev)
+
+Key things to check in "Read Contract":
+- `_buyTax` → current buy tax
+- `_sellTax` → current sell tax
+- `owner()` → is it renounced (zero address) or held?
+- `isExcludedFromFee` → marketing + dev wallets excluded (normal)
+
+Transparency starts on-chain. 🦞🔍
+
+#CLAW #Base #ContractReading #Transparency #DYOR
+
+---
+
+## Post 5: Evening (9pm AST)
+Wednesday evening. 🦞
+
+Third day of the week. AI logged every hour.
+
+The foundation doesn't build itself.
+Except when AI does it. 💎🤖
+
+#CLAW #Base #Wednesday #AIBuilt
+
+---
+
+## Telegram
+**Morning:** 🌅 Wednesday GM 🦞 Mid-week, full speed 💎
+**Evening:** 🌙 Wednesday night 🦞 Hump day cleared
