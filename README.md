@@ -59,9 +59,9 @@ deployer.
 AI-powered lobster meme token built on Base.
 
 - **Total Supply:** 1,000,000,000 CLAW
-- **Tax:** 5% (2% holders, 2% marketing, 1% burn)
+- **Tax:** 3% total (2% burn, 1% reward pool)
 - **Anti-whale:** Max wallet 2%
-- **Auto-rewards:** Passive income for holders
+- **Auto-rewards:** 1% reward pool (currently set to the burn address, so it burns too)
 
 **Tagline:** *Claw Your Way to the Moon*
 
@@ -75,7 +75,7 @@ AI-powered lobster meme token built on Base.
 | Marketing | 20% |
 | Team | 15% (vested) |
 | Community | 10% |
-| Initial Burn | 5% |
+| Burned so far | 0% (no transfers have occurred) |
 
 ---
 
