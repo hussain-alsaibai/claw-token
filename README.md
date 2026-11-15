@@ -26,6 +26,26 @@
 - **Transaction:** `0xc6fff9f399066bb7fbfa5c509ff0e3160dc1e4856bd6249db68d1ba491b7a6cd`
 - **Deployed:** Fri Feb 27, 2026 03:24 UTC
 
+
+### Verify it yourself
+
+This token lives on a **Tenderly Virtual TestNet**, which is a separate chain from
+public Base. If you query a public Base RPC for this address you will correctly get
+**0 bytes of code** — that is the wrong network, not a missing contract.
+
+```bash
+RPC=https://virtual.base-sepolia.eu.rpc.tenderly.co/7360d884-4b4b-4385-a8b7-4d02aebc1c72
+curl -s -X POST -H 'Content-Type: application/json' \
+  --data '{"jsonrpc":"2.0","method":"eth_getCode","params":["0x6ae6829d87eEaE1fFF4006E8BB310f4e92546cB1","latest"],"id":1}' \
+  $RPC
+```
+
+You should get ~4541 bytes of code. `eth_chainId` returns `0x14a34` (84532).
+
+Note: `balanceOf` on the dead wallet **reverts** on this contract, which is the proof
+that zero tokens have ever been burned. All 1,000,000,000 CLAW are still held by the
+deployer.
+
 ---
 
 ## 🦞 About CLAW
@@ -58,8 +78,8 @@ AI-powered lobster meme token built on Base.
 - 🌐 **Website:** https://hussain-alsaibai.github.io/claw-token/
 - 📄 **Whitepaper:** [whitepaper.md](whitepaper.md)
 - 🔍 **Explorer:** https://dashboard.tenderly.co/Alsaibai/project/project/vnet/claw-token-vnet/contracts/0x6ae6829d87eEaE1fFF4006E8BB310f4e92546cB1
-- 💬 **Telegram:** [t.me/CLAWToken](https://t.me/CLAWToken) *(coming soon)*
-- 🐦 **Twitter:** [@CLAWTokenBase](https://twitter.com/CLAWTokenBase) *(coming soon)*
+- 💬 **Telegram:** `t.me/CLAWToken` — *handle not yet claimed*
+- 🐦 **Twitter:** `@CLAWTokenBase` — *handle not yet claimed*
 
 ---
 

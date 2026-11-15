@@ -20,7 +20,7 @@ AI-powered lobster revolution on Base.
 - Anti-whale protection
 - Auto-rewards
 
-Contract: [PENDING DEPLOYMENT]
+Contract: 0x6ae6829d87eEaE1fFF4006E8BB310f4e92546cB1 (Tenderly Virtual TestNet, chain ID 84532)
 Website: https://hussain-alsaibai.github.io/claw-token/
 
 #Base #MemeCoin #CLAW #Crypto
