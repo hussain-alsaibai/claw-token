@@ -1,12 +1,12 @@
 # 🦞 $CLAW Token
 
-**AI-Powered Lobster Meme Coin - LIVE ON TENDERLY**
+**AI-Powered Lobster Meme Coin - TESTNET (Tenderly Virtual TestNet)**
 
-[![Status](https://img.shields.io/badge/Status-LIVE-brightgreen)](#)
-[![Contract](https://img.shields.io/badge/Contract-Deployed-blue)](#)
+[![Status](https://img.shields.io/badge/Status-TESTNET-yellow)](#)
+[![Contract](https://img.shields.io/badge/Contract-Deployed%20(testnet)-blue)](#)
 [![Network](https://img.shields.io/badge/Network-Tenderly%20VNet-purple)](#)
 
-## 🚀 LIVE NOW
+## 🚀 DEPLOYED (TESTNET)
 
 **Contract Address:** `0x6ae6829d87eEaE1fFF4006E8BB310f4e92546cB1`
 
@@ -15,6 +15,12 @@
 **Website:** https://hussain-alsaibai.github.io/claw-token/
 
 **GitHub:** https://github.com/hussain-alsaibai/claw-token
+
+
+> ⚠️ **This is a testnet token with no monetary value.** It is deployed on a Tenderly
+> Virtual TestNet, not on Base mainnet or Base Sepolia. It cannot be traded, has no
+> liquidity, and is not audited. All 1,000,000,000 CLAW are held by the deployer and
+> **zero have been burned** — the dead wallet balance is 0.
 
 ---
 
