@@ -1,6 +1,6 @@
 {
   "date": "2026-11-15",
-  "generatedAt": "2026-11-15T06:24:33.040Z",
+  "generatedAt": "2026-11-15T06:27:29.945Z",
   "contract": "0x6ae6829d87eEaE1fFF4006E8BB310f4e92546cB1",
   "network": "Tenderly Virtual TestNet (chainId 84532)",
   "chainVerified": true,
@@ -22,14 +22,14 @@
     "📊 CLAW on-chain state:\n• Total supply: 1,000,000,000 CLAW\n• Burn tax: 2%\n• Total tax: 3%",
     "💎 Supply intact: 1,000,000,000 CLAW minted, 0% burned so far. The claw takes its cut.\n\n#CLAW",
     "💎 Anti-whale: max wallet 2% of supply. Diamond claws only.\n\n#CLAW #HODL",
-    "🎯 CLAW Fact: Lobsters taste with their legs\n\nDid you know?",
+    "🎯 CLAW Fact: Lobsters can live to be 100 years old\n\nDid you know?",
     "🎉 It's Sunday! Time to stack more CLAW.",
     "🦞 Red shell = green candle. Always.\n\n#CLAW #Crypto"
   ],
   "facts": [
-    "Lobsters can live to be 100 years old",
-    "Lobsters molt their shells to grow",
-    "Lobsters can live to be 100 years old"
+    "The largest lobster ever caught was 44 pounds",
+    "Lobsters were once considered prison food",
+    "The largest lobster ever caught was 44 pounds"
   ],
   "engagement": [
     "🎙️ Question of the day: What made you buy CLAW?",
