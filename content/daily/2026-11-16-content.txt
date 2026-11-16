@@ -1,0 +1,48 @@
+Daily Content - 2026-11-16
+====================
+
+Network : Tenderly Virtual TestNet (chainId 84532)
+Contract: 0x6ae6829d87eEaE1fFF4006E8BB310f4e92546cB1
+Chain verified: YES
+
+TWEETS:
+1. 🦞 GM Claw Cave! CLAW is live on the Tenderly Virtual TestNet.
+Contract: 0x6ae6829d87eEaE1fFF4006E8BB310f4e92546cB1
+
+#CLAW #Base #Morning
+
+2. 📊 CLAW on-chain state:
+• Total supply: 1,000,000,000 CLAW
+• Burn tax: 2%
+• Total tax: 3%
+
+3. 💎 Supply intact: 1,000,000,000 CLAW minted, 0% burned so far. The claw takes its cut.
+
+#CLAW
+
+4. 💎 Anti-whale: max wallet 2% of supply. Diamond claws only.
+
+#CLAW #HODL
+
+5. 🎯 CLAW Fact: Lobsters were once considered prison food
+
+Did you know?
+
+6. 🎉 It's Monday! Time to stack more CLAW.
+
+7. 🦞 Red shell = green candle. Always.
+
+#CLAW #Crypto
+
+FACTS:
+1. Lobsters can regenerate lost limbs
+2. Lobsters were once considered prison food
+3. The largest lobster ever caught was 44 pounds
+
+ENGAGEMENT:
+1. 🎙️ Question of the day: What made you buy CLAW?
+2. 📊 Poll: Are you HODLing or trading?
+3. 🎯 Challenge: Invite 3 friends to the Claw Cave
+4. 💬 Discussion: What's your CLAW price prediction?
+
+NOTE: Metrics in this file were read live from the contract at generation time. No metric is invented. This is a testnet token with no monetary value.

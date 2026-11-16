@@ -1,0 +1,41 @@
+{
+  "date": "2026-11-16",
+  "generatedAt": "2026-11-16T04:15:03.540Z",
+  "contract": "0x6ae6829d87eEaE1fFF4006E8BB310f4e92546cB1",
+  "network": "Tenderly Virtual TestNet (chainId 84532)",
+  "chainVerified": true,
+  "chainError": null,
+  "onchain": {
+    "name": "CLAW Token",
+    "symbol": "CLAW",
+    "decimals": 18,
+    "totalSupply": "1000000000000000000000000000",
+    "burnBps": 200,
+    "rewardBps": 100,
+    "totalTaxBps": 300,
+    "burned": "0",
+    "burnedPct": 0,
+    "rewardPool": "0x000000000000000000000000000000000000dead"
+  },
+  "tweets": [
+    "🦞 GM Claw Cave! CLAW is live on the Tenderly Virtual TestNet.\nContract: 0x6ae6829d87eEaE1fFF4006E8BB310f4e92546cB1\n\n#CLAW #Base #Morning",
+    "📊 CLAW on-chain state:\n• Total supply: 1,000,000,000 CLAW\n• Burn tax: 2%\n• Total tax: 3%",
+    "💎 Supply intact: 1,000,000,000 CLAW minted, 0% burned so far. The claw takes its cut.\n\n#CLAW",
+    "💎 Anti-whale: max wallet 2% of supply. Diamond claws only.\n\n#CLAW #HODL",
+    "🎯 CLAW Fact: Lobsters were once considered prison food\n\nDid you know?",
+    "🎉 It's Monday! Time to stack more CLAW.",
+    "🦞 Red shell = green candle. Always.\n\n#CLAW #Crypto"
+  ],
+  "facts": [
+    "Lobsters can regenerate lost limbs",
+    "Lobsters were once considered prison food",
+    "The largest lobster ever caught was 44 pounds"
+  ],
+  "engagement": [
+    "🎙️ Question of the day: What made you buy CLAW?",
+    "📊 Poll: Are you HODLing or trading?",
+    "🎯 Challenge: Invite 3 friends to the Claw Cave",
+    "💬 Discussion: What's your CLAW price prediction?"
+  ],
+  "disclaimer": "Metrics in this file were read live from the contract at generation time. No metric is invented. This is a testnet token with no monetary value."
+}
