@@ -29,8 +29,10 @@
 - **Network:** Tenderly Virtual TestNet (Base-Sepolia-compatible, chain ID 84532)
 - **Chain ID:** 84532
 - **Status:** ✅ Verified and Live
-- **Transaction:** `0xc6fff9f399066bb7fbfa5c509ff0e3160dc1e4856bd6249db68d1ba491b7a6cd`
-- **Deployed:** Fri Feb 27, 2026 03:24 UTC
+- **Deployment transaction:** `0x951ea93f11c4af4dc6637bd49d8ef2282f9d80eb8ddf57a99ed80d6e763bf126`
+- **Deployed:** Tue Nov 11, 2026 06:37 UTC
+- **Deployer / owner:** `0x16f6d1d4b67019f5a7eadfc151430c50cbc1244c`
+- **Superseded contract:** `0xA43162888cc51E535eb16d60609C289Ac2882bA7` (deployed 2026-02-28, 3170 bytes) — its `burnBps`, `rewardBps` and `totalTaxBps` all revert, so it is an older version of the token. Use the address above.
 
 
 ### Verify it yourself
@@ -48,9 +50,15 @@ curl -s -X POST -H 'Content-Type: application/json' \
 
 You should get ~4541 bytes of code. `eth_chainId` returns `0x14a34` (84532).
 
-Note: `balanceOf` on the dead wallet **reverts** on this contract, which is the proof
-that zero tokens have ever been burned. All 1,000,000,000 CLAW are still held by the
-deployer.
+**Zero CLAW has been burned on this contract.** `balanceOf` on the dead wallet
+(`0x000000000000000000000000000000000000dEaD`) returns **0** — it does *not* revert here.
+The single mint event moved all 1,000,000,000 CLAW from the zero address to the deployer,
+`totalSupply` is still 1,000,000,000, and the deployer holds the full supply.
+
+One caveat worth stating plainly: the **superseded** contract above did mint 10,000,000 CLAW
+straight to the dead wallet in its constructor. That is 1% of supply, it was never a
+burn — nothing was destroyed — and it has no effect on the contract you are using. But if
+you see “10M burned” anywhere, that is where the number came from.
 
 ---
 

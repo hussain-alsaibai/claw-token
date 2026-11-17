@@ -146,8 +146,12 @@ async function readChainState() {
     // wallet, so burned is that balance - NOT totalSupply - balance.
     // (The first version inverted this and reported "100% of supply burned"
     // when in fact nothing had ever been burned.)
-    // balanceOf on a zero-balance address reverts on this contract, which is
-    // itself the proof that the balance is zero.
+    // Verified 2026-11-17 against the vnet: balanceOf on the dead wallet
+    // RETURNS 0 on this contract - it does not revert. Only the superseded
+    // contract's burnBps/rewardBps/totalTaxBps revert. The catch below still
+    // handles a revert, because that was the old contract's behaviour and the
+    // same code must not silently report a fabricated number if it is ever
+    // pointed at one.
     const balData = '0x70a08231' + DEAD_WALLET.slice(2).toLowerCase().padStart(64, '0');
     let deadBal = 0n;
     try {
