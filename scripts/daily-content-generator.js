@@ -157,7 +157,7 @@ async function readChainState() {
     try {
       deadBal = decodeUint(await ethCall(CONTRACT, balData));
     } catch (_) {
-      deadBal = 0n; // reverts => no tokens have reached the dead wallet
+      deadBal = 0n; // a revert (older contract) or 0 (current one) => nothing burned
     }
     state.burned = deadBal;
     state.burnedPct = state.totalSupply > 0n
